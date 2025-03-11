@@ -1,0 +1,3 @@
+name = "NBT"
+grammar = "nbt"
+path_suffixes = ["nbt", "snbt", "dat"]

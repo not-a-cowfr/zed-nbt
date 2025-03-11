@@ -1,0 +1,11 @@
+id = "nbt"
+name = "NBT"
+schema_version = 1
+version = "0.1.0"
+authors = ["Andrw Gielow <awgielow@gmail.com>"]
+description = "NBT language support"
+repository = "https://github.com/not-a-cowfr/zed-nbt"
+
+[grammars.nbt]
+repository = "https://github.com/theusaf/tree-sitter-mcfunction-lang"
+commit = "63ecabe394ec5f9eecfec6e90a22c3ae684fd549"
